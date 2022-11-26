@@ -1,0 +1,15 @@
+# ninja log v5
+0	666	6902288401269025	untitled_autogen/timestamp	baccca02a8614a02
+0	666	6902288401269025	untitled_autogen/mocs_compilation.cpp	baccca02a8614a02
+0	666	6902288401269025	D:/project/c++/build-untitled-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled_autogen/timestamp	baccca02a8614a02
+0	666	6902288401269025	D:/project/c++/build-untitled-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	baccca02a8614a02
+667	2261	6902288418824325	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	2ca31e09caeaba4a
+670	2306	6902288419274327	CMakeFiles/untitled.dir/main.cpp.obj	7406ef573f0c7c5
+673	2332	6902288419544314	CMakeFiles/untitled.dir/mainwindow.cpp.obj	80fbaaec99fa340f
+2333	2504	6902288421220162	untitled.exe	ed7b3a314f664380
+10	320	6902288849340569	untitled_autogen/timestamp	baccca02a8614a02
+10	320	6902288849340569	untitled_autogen/mocs_compilation.cpp	baccca02a8614a02
+10	320	6902288849340569	D:/project/c++/build-untitled-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled_autogen/timestamp	baccca02a8614a02
+10	320	6902288849340569	D:/project/c++/build-untitled-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	baccca02a8614a02
+323	2032	6902288866457964	CMakeFiles/untitled.dir/mainwindow.cpp.obj	80fbaaec99fa340f
+2033	2220	6902288868295495	untitled.exe	ed7b3a314f664380
